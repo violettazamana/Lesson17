@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="string_for_text">Text</string>
+    <string name="hint_for_password">Password</string>
+    <string name="agree">agree</string>
+</resources>
